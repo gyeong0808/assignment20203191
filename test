@@ -1,0 +1,1 @@
+sed -n '/list/p' list.txt
